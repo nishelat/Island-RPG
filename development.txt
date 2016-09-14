@@ -1,7 +1,0 @@
-Base level is 80%
-Skills add to that base
-Max skill is 20 for a total chance of 100%
-Player's default min damage is 1
-Max damage is 5
-Add strength skill to max damage for a
-total max damage of 25
