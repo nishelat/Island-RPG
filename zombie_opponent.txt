@@ -1,0 +1,9 @@
+25
+85
+2
+8
+An ugly zombie lunges at you, groaning for brains.
+The zombie growls at you menacingly.
+The zombie staggers slightly and growls with hatred.
+The zombie's chest heaves as it struggles to defend itself.
+The zombie's flesh falls right off as it decays into a stinking pile of bones and meat.
